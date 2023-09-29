@@ -1,4 +1,0 @@
-Usado para desfazer o que tal commit fez sem apagar ela na linha do histórico
-git revert HashCodeTalCommit
-
-isso 
