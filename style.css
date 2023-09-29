@@ -14,3 +14,14 @@ body{
   font-size: 4rem;
 }
 
+main{
+  background-color: #6d3c3cb0;
+  padding: 1.5rem;
+  margin: .5rem auto;
+}
+
+section{
+  background-color: #cc3333b0;
+  padding: 1.5rem;
+  margin: .5rem auto;
+}
