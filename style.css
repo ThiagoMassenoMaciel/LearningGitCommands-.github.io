@@ -7,10 +7,10 @@ body{
 }
 
 #app{
-  --hue: 100;
-  
+  --hue: 200;
+
   background-color: hsl(var(--hue), 100%, 84%);
-  color: hsla(var(--hue), 0%, 100%, 0.69);
+  color: hsla(var(--hue), 10%, 100%, 0.69);
   padding: 2rem;
   margin: 0 auto;
   font-size: 4rem;
