@@ -25,3 +25,9 @@ section{
   padding: 1.5rem;
   margin: .5rem auto;
 }
+
+article{
+  background-color: #ff0000c4;
+  padding: 1rem ;
+  margin : .5rem auto;
+}
