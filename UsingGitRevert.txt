@@ -1,0 +1,8 @@
+Usado para desfazer o que tal commit fez (criando outro commit com alterações do commit escolhido desfeitas) sem apagar o tal commit da linha de tempo do histórico
+
+git revert HashCodeTalCommit
+  agora cria um novo commit reverted 
+git log --oneline
+
+hashcode revert newCommitWithNoChanges
+hashcode oldCommitWithAllChanges 
