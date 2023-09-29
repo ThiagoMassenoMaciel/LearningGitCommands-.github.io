@@ -6,3 +6,10 @@ git log --oneline
 
 hashcode revert newCommitWithNoChanges
 hashcode oldCommitWithAllChanges 
+
+
+
+e se eu quiser desfazer ?
+
+
+git revert HASHcodeOLDcommitALLchanges 
