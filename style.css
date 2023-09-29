@@ -7,7 +7,7 @@ body{
 }
 
 #app{
-  --hue: 300;
+  --hue: 360;
 
   background-color: hsl(var(--hue), 100%, 84%);
   color: hsla(var(--hue), 10%, 100%, 0.69);
