@@ -7,27 +7,29 @@ body{
 }
 
 #app{
-  background-color: hsla(0, 20%, 16%, 0.877);
-  color: #ffffffb0;
+  --hue: 100;
+  
+  background-color: hsl(var(--hue), 100%, 84%);
+  color: hsla(var(--hue), 0%, 100%, 0.69);
   padding: 2rem;
   margin: 0 auto;
   font-size: 4rem;
 }
 
 main{
-  background-color: #6d3c3cb0;
+  background-color: hsla(var(--hue), 29%, 33%, 0.69);
   padding: 1.5rem;
   margin: .5rem auto;
 }
 
 section{
-  background-color: #cc3333b0;
+  background-color: hsla(var(--hue), 60%, 50%, 0.69);
   padding: 1.5rem;
   margin: .5rem auto;
 }
 
 article{
-  background-color: #ff0000c4;
+  background-color: hsla(var(--hue), 100%, 50%, 0.612);
   padding: 1rem ;
   margin : .5rem auto;
 }
