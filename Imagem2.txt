@@ -1,0 +1,1 @@
+depois de usar o revert criou um novo commit com todas alterações desfeitas do commit escolhido, sem apagar do histórico dele antigo
